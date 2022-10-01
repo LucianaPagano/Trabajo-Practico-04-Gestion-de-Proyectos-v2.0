@@ -44,7 +44,7 @@ def principal():
             toshow()
             mostrar(pro)
         elif op == 8:
-            pass
+            print("Hasta Pronto !!!")
 
 
 if __name__ == '__main__':
